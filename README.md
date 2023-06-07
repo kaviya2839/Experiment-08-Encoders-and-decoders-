@@ -97,6 +97,7 @@ endmodule
 
 ![image](https://github.com/kaviya2839/Experiment-08-Encoders-and-decoders-/assets/120553351/a1e53025-3871-470c-847d-930985afa0de)
 
+
 ### PROGRAM (DECODERS)
 /*
 Program for Decoders  and verify its truth table in quartus using Verilog programming.
